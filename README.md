@@ -3,14 +3,14 @@ Implementação de diferentes métodos de resolução para o problema de realoca
 
 ## Projeto de Graduação em Computação
 
-Universidade Federal do ABC
+### Universidade Federal do ABC
 
 Aluno: Matheus Fellone dos Santos
 
 
 ## Métodos Implementados:
 
--Porgramação dinâmica
+-Programação dinâmica
 
 -Método do corredor
 
