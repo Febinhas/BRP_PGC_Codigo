@@ -1,11 +1,15 @@
 # BRP_PGC_Codigo
 Implementação de diferentes métodos de resolução para o problema de realocação de contêineres.
+
 Projeot de Graduação em Computação
+
 Universidade Federal do ABC
+
 Aluno: Matheus Fellone dos Santos
 
 
 Métodos Implementados:
+
 -Porgramação dinâmica
 
 -Método do corredor
