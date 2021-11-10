@@ -1,14 +1,14 @@
 # BRP_PGC_Codigo
 Implementação de diferentes métodos de resolução para o problema de realocação de contêineres.
 
-Projeot de Graduação em Computação
+## Projeto de Graduação em Computação
 
 Universidade Federal do ABC
 
 Aluno: Matheus Fellone dos Santos
 
 
-Métodos Implementados:
+## Métodos Implementados:
 
 -Porgramação dinâmica
 
@@ -21,9 +21,11 @@ Métodos Implementados:
 -Colônia de formigas
 
 
-Modelos de testes retirados do link: https://www.bwl.uni-hamburg.de/en/iwi/forschung/projekte/dataprojekte/brp-instances-caserta-etal-2012.zip
+##Modelos de testes 
 
-Artigos de referência:
+https://www.bwl.uni-hamburg.de/en/iwi/forschung/projekte/dataprojekte/brp-instances-caserta-etal-2012.zip
+
+##Artigos de referência:
 
 https://www.sciencedirect.com/science/article/abs/pii/S0377221718308208
 
